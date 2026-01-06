@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "くうになる",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-06T09:14:42.655418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くうになる",
+      "artist": "MIMI feat. 可不",
+      "has_synced": true,
+      "path": "select/01_くうになる_MIMI_feat._可不.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くうになる",
+      "artist": "N/A",
+      "has_synced": true,
+      "path": "select/02_くうになる_N_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "くうになる - Kuninaru (feat. KAFU)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/03_くうになる_-_Kuninaru_(feat._KAFU)_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くうになる",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/04_くうになる_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "くうになる (feat. 可不)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/05_くうになる_(feat._可不)_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "くうになる (feat. 可不)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/06_くうになる_(feat._可不)_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "くうになる [Off Vocal]",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/07_くうになる_[Off_Vocal]_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "くうになる",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/08_くうになる_MIMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くうになる",
+      "artist": "MIMI, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_くうになる_MIMI,_可不.txt"
+    }
+  ]
+}
